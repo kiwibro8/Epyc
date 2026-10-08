@@ -1,0 +1,286 @@
+{
+  "assets/CrusaderSword.png": {
+    "assets/BaseChar.png": {
+      "dx": 52,
+      "dy": 33,
+      "rot": 0,
+      "scale": 0.025
+    },
+    "assets/CombatChar.png": {
+      "dx": 62,
+      "dy": -18,
+      "rot": 30,
+      "scale": 0.025
+    },
+    "assets/DeadChar.png": {
+      "dx": -32,
+      "dy": 10,
+      "rot": -90,
+      "scale": 0.025
+    }
+  },
+  "assets/CrusaderArmor.png": {
+    "assets/BaseChar.png": {
+      "dx": 11,
+      "dy": 22,
+      "rot": 0,
+      "scale": 1.0
+    },
+    "assets/CombatChar.png": {
+      "dx": 18,
+      "dy": 18,
+      "rot": -20,
+      "scale": 0.7999999999999998
+    },
+    "assets/DeadChar.png": {
+      "dx": 38,
+      "dy": 8,
+      "rot": -90,
+      "scale": 0.6999999999999997
+    }
+  },
+  "assets/GreatHelm.png": {
+    "assets/BaseChar.png": {
+      "dx": 22,
+      "dy": -3,
+      "rot": 0,
+      "scale": 0.13814814814814813
+    },
+    "assets/CombatChar.png": {
+      "dx": 37,
+      "dy": -4,
+      "rot": -20,
+      "scale": 0.14814814814814814
+    },
+    "assets/DeadChar.png": {
+      "dx": 70,
+      "dy": 7,
+      "rot": -90,
+      "scale": 0.14814814814814814
+    }
+  },
+  "assets/HalbeardAxe.png": {
+    "assets/BaseChar.png": {
+      "dx": 39,
+      "dy": -6,
+      "rot": 10,
+      "scale": 0.37119815668202766
+    },
+    "assets/CombatChar.png": {
+      "dx": 47,
+      "dy": -14,
+      "rot": -15,
+      "scale": 0.3711981566820276
+    },
+    "assets/DeadChar.png": {
+      "dx": -62,
+      "dy": -33,
+      "rot": -110,
+      "scale": 0.32119815668202767
+    }
+  },
+  "assets/RogueArmor.png": {
+    "assets/CombatChar.png": {
+      "dx": 19,
+      "dy": 16,
+      "rot": -25,
+      "scale": 0.39999999999999963
+    },
+    "assets/DeadChar.png": {
+      "dx": 31,
+      "dy": 9,
+      "rot": -90,
+      "scale": 0.34999999999999964
+    },
+    "assets/BaseChar.png": {
+      "dx": 12,
+      "dy": 30,
+      "rot": 0,
+      "scale": 0.39999999999999963
+    }
+  },
+  "assets/RogueSword.png": {
+    "assets/DeadChar.png": {
+      "dx": -35,
+      "dy": -15,
+      "rot": -130,
+      "scale": 0.23076923076923078
+    },
+    "assets/BaseChar.png": {
+      "dx": 54,
+      "dy": 34,
+      "rot": 0,
+      "scale": 0.23076923076923078
+    },
+    "assets/CombatChar.png": {
+      "dx": 59,
+      "dy": -14,
+      "rot": 45,
+      "scale": 0.23076923076923078
+    }
+  },
+  "assets/ArcherHelmet.png": {
+    "assets/BaseChar.png": {
+      "dx": 20,
+      "dy": -6,
+      "rot": 0,
+      "scale": 0.16271186440677965
+    },
+    "assets/CombatChar.png": {
+      "dx": 41,
+      "dy": -11,
+      "rot": 0,
+      "scale": 0.16271186440677965
+    },
+    "assets/DeadChar.png": {
+      "dx": 59,
+      "dy": 0,
+      "rot": -75,
+      "scale": 0.16271186440677965
+    }
+  },
+  "assets/RogueHelmet.png": {
+    "assets/BaseChar.png": {
+      "dx": 21,
+      "dy": 3,
+      "rot": 0,
+      "scale": 0.02040816326530612
+    },
+    "assets/CombatChar.png": {
+      "dx": 35,
+      "dy": -1,
+      "rot": -15,
+      "scale": 0.02040816326530612
+    },
+    "assets/DeadChar.png": {
+      "dx": 55,
+      "dy": 8,
+      "rot": -90,
+      "scale": 0.02040816326530612
+    }
+  },
+  "assets/MageHat.png": {
+    "assets/BaseChar.png": {
+      "dx": 11,
+      "dy": -25,
+      "rot": 0,
+      "scale": 0.177359413202934
+    },
+    "assets/CombatChar.png": {
+      "dx": 33,
+      "dy": -31,
+      "rot": 0,
+      "scale": 0.167359413202934
+    },
+    "assets/DeadChar.png": {
+      "dx": 64,
+      "dy": -1,
+      "rot": -90,
+      "scale": 0.167359413202934
+    }
+  },
+  "assets/MageStaff.png": {
+    "assets/CombatChar.png": {
+      "dx": 40,
+      "dy": -1,
+      "rot": -70,
+      "scale": 0.4116161616161616
+    },
+    "assets/BaseChar.png": {
+      "dx": 51,
+      "dy": 1,
+      "rot": 0,
+      "scale": 0.3616161616161616
+    },
+    "assets/DeadChar.png": {
+      "dx": -40,
+      "dy": -58,
+      "rot": -165,
+      "scale": 0.3616161616161616
+    }
+  },
+  "assets/MageRobes.png": {
+    "assets/BaseChar.png": {
+      "dx": 2,
+      "dy": 27,
+      "rot": 0,
+      "scale": 0.040408163265306114
+    },
+    "assets/CombatChar.png": {
+      "dx": 8,
+      "dy": 15,
+      "rot": -25,
+      "scale": 0.030408163265306112
+    },
+    "assets/DeadChar.png": {
+      "dx": 10,
+      "dy": 5,
+      "rot": -90,
+      "scale": 0.03040816326530612
+    }
+  },
+  "assets/BleedStatus.png": {
+    "assets/BaseChar.png": {
+      "dx": 0,
+      "dy": 0,
+      "rot": 0,
+      "scale": 0.1672473867595819
+    }
+  },
+  "assets/FireStatus.png": {
+    "assets/BaseChar.png": {
+      "dx": 0,
+      "dy": 0,
+      "rot": 0,
+      "scale": 0.15841584158415842
+    }
+  },
+  "assets/ArcherArmor.png": {
+    "assets/BaseChar.png": {
+      "dx": 9,
+      "dy": 29,
+      "rot": 0,
+      "scale": 0.05263157894736842
+    },
+    "assets/CombatChar.png": {
+      "dx": 19,
+      "dy": 24,
+      "rot": -10,
+      "scale": 0.05263157894736842
+    },
+    "assets/DeadChar.png": {
+      "dx": 35,
+      "dy": -4,
+      "rot": -90,
+      "scale": 0.05263157894736842
+    }
+  },
+  "assets/StartingBow.png": {
+    "assets/BaseChar.png": {
+      "dx": 12,
+      "dy": 18,
+      "rot": -120,
+      "scale": 0.03125
+    },
+    "assets/CombatChar.png": {
+      "dx": 45,
+      "dy": -14,
+      "rot": -125,
+      "scale": 0.03125
+    },
+    "assets/DeadChar.png": {
+      "dx": 15,
+      "dy": 8,
+      "rot": 0,
+      "scale": 0.03125
+    }
+  },
+  "assets/Thief.png": {
+    "assets/BaseChar.png": {
+      "dx": 0,
+      "dy": 0,
+      "rot": 0,
+      "scale": 0.020253164556962026
+    }
+  }
+}

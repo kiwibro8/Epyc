@@ -1,0 +1,158 @@
+{
+  "assets/CrusaderSword.png": {
+    "name": "Crusader Sword",
+    "type": "weapon",
+    "attack_bonus": 6,
+    "defense_bonus": 1,
+    "magic_bonus": 1,
+    "speed_bonus": -1,
+    "hp_bonus": 10,
+    "crit_bonus": 5,
+    "allowed_classes": [
+      "Crusader"
+    ]
+  },
+  "assets/HalbeardAxe.png": {
+    "name": "Halbeard Axe",
+    "type": "weapon",
+    "attack_bonus": 10,
+    "defense_bonus": 0,
+    "magic_bonus": 0,
+    "speed_bonus": -3,
+    "hp_bonus": 5,
+    "crit_bonus": 10,
+    "allowed_classes": [
+      "Crusader"
+    ]
+  },
+  "assets/RogueSword.png": {
+    "name": "Rogue Sword",
+    "type": "weapon",
+    "attack_bonus": 5,
+    "defense_bonus": 0,
+    "magic_bonus": 0,
+    "speed_bonus": 3,
+    "hp_bonus": 0,
+    "crit_bonus": 10,
+    "allowed_classes": [
+      "Rogue"
+    ]
+  },
+  "assets/CrusaderArmor.png": {
+    "name": "Crusader Armor",
+    "type": "armor",
+    "attack_bonus": 2,
+    "defense_bonus": 6,
+    "magic_bonus": 0,
+    "speed_bonus": -4,
+    "hp_bonus": 15,
+    "crit_bonus": 0,
+    "allowed_classes": [
+      "Crusader"
+    ]
+  },
+  "assets/RogueArmor.png": {
+    "name": "Rogue Armor",
+    "type": "armor",
+    "attack_bonus": 3,
+    "defense_bonus": 3,
+    "magic_bonus": 2,
+    "speed_bonus": 4,
+    "hp_bonus": 10,
+    "crit_bonus": 5,
+    "allowed_classes": [
+      "Rogue"
+    ]
+  },
+  "assets/GreatHelm.png": {
+    "name": "Greathelm",
+    "type": "headgear",
+    "attack_bonus": 1,
+    "defense_bonus": 3,
+    "magic_bonus": 0,
+    "speed_bonus": -1,
+    "hp_bonus": 5,
+    "crit_bonus": 0,
+    "allowed_classes": [
+      "Crusader"
+    ]
+  },
+  "assets/RogueHelmet.png": {
+    "name": "Rogue Helmet",
+    "type": "headgear",
+    "attack_bonus": 1,
+    "defense_bonus": 1,
+    "magic_bonus": 0,
+    "speed_bonus": 2,
+    "hp_bonus": 5,
+    "crit_bonus": 5,
+    "allowed_classes": [
+      "Rogue"
+    ]
+  },
+  "assets/MageRobes.png": {
+    "name": "Archmage Robes",
+    "type": "armor",
+    "attack_bonus": 0,
+    "defense_bonus": 2,
+    "magic_bonus": 4,
+    "speed_bonus": 2,
+    "hp_bonus": 10,
+    "crit_bonus": 1,
+    "allowed_classes": [
+      "Mage"
+    ]
+  },
+  "assets/MageStaff.png": {
+    "name": "Wooden Staff",
+    "type": "weapon",
+    "attack_bonus": 1,
+    "defense_bonus": 1,
+    "magic_bonus": 8,
+    "speed_bonus": 1,
+    "hp_bonus": 5,
+    "crit_bonus": 2,
+    "allowed_classes": [
+      "Mage"
+    ]
+  },
+  "assets/MageHat.png": {
+    "name": "Wizard Hat",
+    "type": "headgear",
+    "attack_bonus": 0,
+    "defense_bonus": 1,
+    "magic_bonus": 2,
+    "speed_bonus": 1,
+    "hp_bonus": 5,
+    "crit_bonus": 2,
+    "allowed_classes": [
+      "Mage"
+    ]
+  },
+  "assets/ArcherArmor.png": {
+    "name": "Archer Armor",
+    "type": "armor",
+    "attack_bonus": 2,
+    "defense_bonus": 3,
+    "magic_bonus": 0,
+    "speed_bonus": 2,
+    "hp_bonus": 10,
+    "crit_bonus": 5,
+    "allowed_classes": [
+      "Archer"
+    ]
+  },
+  "assets/ArcherHelmet.png": {
+    "name": "Archer Helmet",
+    "type": "headgear",
+    "attack_bonus": 1,
+    "defense_bonus": 2,
+    "magic_bonus": 0,
+    "speed_bonus": 1,
+    "hp_bonus": 5,
+    "crit_bonus": 5,
+    "allowed_classes": [
+      "Archer"
+    ]
+  }
+}
